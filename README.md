@@ -5,11 +5,11 @@
 ## Skills
 
 #### Languages
-<font size="3">`Python` `Java` `JavaScript` `Swift` `HTML` `CSS` `C#` `SQL` </font>
+`Python` `Java` `JavaScript` `Swift` `HTML` `CSS` `C#` `SQL`
 #### Libraries
-<font size="3">`React-Native` `Pandas` `NumPy` `Seaborn` `Matplotlib` `Scikit-learn` `SciPy` `Beautiful Soup` `JQuery` </font>
+`React-Native` `Pandas` `NumPy` `Seaborn` `Matplotlib` `Scikit-learn` `SciPy` `Beautiful Soup` `JQuery`
 #### Software
-<font size="3">`Firebase` `Git` `GitHub` `MySQL` `Heroku` `Parse` `VSCode` `XCode` `PyCharm` `Excel` `Jupyter Notebook` </font>
+`Firebase` `Git` `GitHub` `MySQL` `Heroku` `Parse` `VSCode` `XCode` `PyCharm` `Excel` `Jupyter Notebook`
 
 
 
@@ -30,12 +30,13 @@
 ## Projects
 
 ### [TikTalk](https://github.com/EfazAhmed/TikTalk-App) 
-`React-Native` `Expo` `ios` `TikTok` `Parse` `Back4App` `JavaScript` `Python`
 
 Developing an app that displays TikTok's most popular sounds, creators, and a function that allows the user to match their audio input to a popular TikTok sound. This is an iOS that integrates web data extraction and a custom Parse backend server hosted on Back4App.
 
 <img style="float: left; width: 200px" src="https://imgur.com/un3k9Nl.gif">
 <img style="float: left; width: 200px; margin-left: 50px" src="https://imgur.com/yHydKDI.png">
+
+`React-Native` `Expo` `ios` `TikTok` `Parse` `Back4App` `JavaScript` `Python`
 
 
 
