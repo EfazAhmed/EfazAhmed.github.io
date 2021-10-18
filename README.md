@@ -33,8 +33,8 @@
 
 Developing an app that displays TikTok's most popular sounds, creators, and a function that allows the user to match their audio input to a popular TikTok sound. This is an iOS that integrates web data extraction and a custom Parse backend server hosted on Back4App.
 
-<img style="float: left; width: 200px" src="https://imgur.com/un3k9Nl.gif">
-<img style="float: left; width: 200px; margin-left: 50px" src="https://imgur.com/yHydKDI.png">
+<img style="width: 200px" src="https://imgur.com/un3k9Nl.gif">
+<img style="width: 200px; margin-left: 50px" src="https://imgur.com/yHydKDI.png">
 
 `React-Native` `Expo` `ios` `TikTok` `Parse` `Back4App` `JavaScript` `Python`
 
