@@ -1,37 +1,44 @@
-## Efaz Ahmed
+# Efaz Ahmed
 
-You can use the [editor on GitHub](https://github.com/EfazAhmed/EfazAhmed.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Languages
+<font size="3">`Python` `Java` `JavaScript` `Swift` `HTML` `CSS` `C#` `SQL` </font>
+#### Libraries
+<font size="3">`React-Native` `Pandas` `NumPy` `Seaborn` `Matplotlib` `Scikit-learn` `SciPy` `Beautiful Soup` `JQuery` </font>
+#### Software
+<font size="3">`Firebase` `Git` `GitHub` `MySQL` `Heroku` `Parse` `VSCode` `XCode` `PyCharm` `Excel` `Jupyter Notebook` </font>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Experience
 
-1. Numbered
-2. List
+### President | Google Developer Student Club | CUNY Baruch College
+<font size='2'>Google Developer Student Club Leads are passionate leaders at their university who are dedicated to helping their peers learn and connect. These Leads may be pursuing various undergraduate or graduate university degrees but have a good foundational knowledge of software development concepts.</font>
 
-**Bold** and _Italic_ and `Code` text
+### iOS Tech Fellow | CodePath | CUNY Baruch College
+<font size='2'>Tech Fellows (TF) are ambitious student leaders that are trained by CodePath to deliver successful CodePath courses to their peers. TFs volunteer to facilitate the sessions at their university and provide assistance to students during each class, while being fully supported by CodePath every step of the way.</font>
 
-[Link](url) and ![Image](src)
-```
+### Data Science Fellow | CUNY Tech Prep | CUNY Baruch College
+<font size='2'>CUNY Tech Prep is an industry-informed program for exceptional computer science students in the CUNY senior college system. Developed and delivered with the CUNY Institute for Software Design and Development and industry leaders, CUNY Tech Prep is designed to provide students with industry exposure to software development and a connection to tech jobs post-graduation.</font>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Vice President | Baruch AIS | CUNY Baruch College
+<font size='2'>Our mission at the Baruch Association for Information Systems is to provide useful information, networking opportunities, and career enhancement with enthusiasm, creativity, and foresight. All majors are welcome to join and we aim to further educate our members on the prominence of technology in business.</font>
 
-### Jekyll Themes
+## Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EfazAhmed/EfazAhmed.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [TikTalk](https://github.com/EfazAhmed/TikTalk-App) 
+`React-Native` `Expo` `ios` `TikTok` `Parse` `Back4App` `JavaScript` `Python`
 
-### Support or Contact
+Developing an app that displays TikTok's most popular sounds, creators, and a function that allows the user to match their audio input to a popular TikTok sound. This is an iOS that integrates web data extraction and a custom Parse backend server hosted on Back4App.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img style="float: left; width: 200px" src="https://imgur.com/un3k9Nl.gif">
+<img style="float: left; width: 200px; margin-left: 50px" src="https://imgur.com/yHydKDI.png">
+
+
+
+
+
+
