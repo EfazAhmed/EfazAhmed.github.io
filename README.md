@@ -1,6 +1,3 @@
-# Efaz Ahmed
-
-
 
 ## Skills
 
